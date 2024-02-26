@@ -1,4 +1,4 @@
-[Click for codes]()
+[Click for codes](https://github.com/uurkrtl/TypeScript-Basic-Demo/blob/main/src/main.ts)
 
 ## Coding: TypeScript Basic
 
